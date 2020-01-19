@@ -542,8 +542,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  display: none;
+#scrollToTop a {
+  border-radius: 100px;
 }
 .form-control {
   font-family: 'Noto Sans', sans-serif;
@@ -1120,17 +1120,17 @@ section.lazy-placeholder:after {
 .cid-rzb4KADcMm {
   padding-top: 105px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/img-8356-2000x2667.jpg");
+  background-image: url("../../../assets/images/pattern-3a-blue-2000x1295.png");
 }
 .cid-rzb4KADcMm P {
   color: #767676;
 }
 .cid-rzb4KADcMm H1 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rzb4KADcMm .mbr-text,
 .cid-rzb4KADcMm .mbr-section-btn {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rzBqbcM8lG {
   padding-top: 15px;
@@ -1534,7 +1534,7 @@ section.lazy-placeholder:after {
 .cid-rzb6oPEtzv {
   padding-top: 75px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pattern-3a-blue-2000x1295.png");
 }
 .cid-rzb6oPEtzv h2 {
   text-align: left;
@@ -1604,6 +1604,9 @@ section.lazy-placeholder:after {
   .cid-rzb6oPEtzv .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rzb6oPEtzv P {
+  color: #232323;
 }
 .cid-rzAF2uXlU7 {
   padding-top: 30px;
@@ -2122,7 +2125,7 @@ section.lazy-placeholder:after {
 .cid-rzbbzCRDNn {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pattern-3a-blue-2000x1295.png");
 }
 .cid-rzbbzCRDNn h2 {
   text-align: left;
@@ -2192,6 +2195,9 @@ section.lazy-placeholder:after {
   .cid-rzbbzCRDNn .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rzbbzCRDNn P {
+  color: #232323;
 }
 .cid-rzAF2uXlU7 {
   padding-top: 30px;
@@ -2710,7 +2716,7 @@ section.lazy-placeholder:after {
 .cid-rzAy0wkk9K {
   padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pattern-3a-blue-2000x1295.png");
 }
 .cid-rzAy0wkk9K h2 {
   text-align: left;
@@ -2780,6 +2786,9 @@ section.lazy-placeholder:after {
   .cid-rzAy0wkk9K .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rzAy0wkk9K P {
+  color: #232323;
 }
 .cid-rzAF2uXlU7 {
   padding-top: 30px;
@@ -3298,7 +3307,7 @@ section.lazy-placeholder:after {
 .cid-rCRmDGcHck {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-image: url("../../../assets/images/pattern-3a-blue-2000x1295.png");
 }
 .cid-rCRmDGcHck h2 {
   text-align: left;
@@ -3368,6 +3377,9 @@ section.lazy-placeholder:after {
   .cid-rCRmDGcHck .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-rCRmDGcHck P {
+  color: #232323;
 }
 .cid-rCRmDH5x71 {
   padding-top: 30px;
